@@ -44,7 +44,7 @@ public class Raiz3Sudoku {
         
   }
    
-    public boolean llenar(int [][]matrix, int n, int x,int y, int k){
+    public boolean llenar(int [][]matrix, int n, int x,int y, int k) {
 
        
         //si no se puede hacer tabla 
